@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @thorroar
-- 👀 I’m interested in mathematical logic
-- 🌱 I’m currently learning in c++
-- 💞️ I’m looking to collaborate on: nothing in particular right now
-- 📫 How to reach me thorbjorn.fr@icloud.com
+- 👀 I’m interested in learning
+- 📫 How to reach me thor.frommelt@math.ch
 
 <!---
 thorroar/thorroar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
